@@ -1,0 +1,16 @@
+{
+  "name": "ezc-mapper",
+  "version": "1.0.8",
+  "description": "json to json mapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "VjEzc",
+  "license": "MIT",
+  "keywords": [
+    "mapper",
+    "jsonmapper",
+    "json2json"
+  ]
+}
